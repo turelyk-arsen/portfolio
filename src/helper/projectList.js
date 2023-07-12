@@ -83,6 +83,13 @@ const projects = [
             linkSite: "https://master--capable-queijadas-569dbe.netlify.app/",
             gitHubLink: "https://github.com/turelyk-arsen/react-fund-course",
           },
+          {
+            id: 4,
+            img: '',
+            link: "https://turelyk-arsen-portfolio-react.netlify.app/",
+            linkSite: "https://turelyk-arsen-portfolio-react.netlify.app/",
+            gitHubLink: "https://github.com/turelyk-arsen/portfolio",
+          }
       ],
   },
   {
@@ -90,6 +97,79 @@ const projects = [
     title: "Html and Css Project",
     skills: "Html, Css",
     img: project_5,
+    subProjects: [
+      {
+        id: 1,
+        img: '',
+        link: "https://project-day-turelyk-arsen.netlify.app/",
+        linkSite: "https://project-day-turelyk-arsen.netlify.app/",
+        gitHubLink: "https://github.com/turelyk-arsen/Project-days",
+      },
+      {
+          id: 2,
+          img: '',
+          linkSite: "https://layout-bonus-exercice.netlify.app/",
+          link: "https://layout-bonus-exercice.netlify.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/9-Layout-bonus-exercice",
+        },
+        {
+          id: 3,
+          img: '',
+          link: "https://evaluationday-htmlcss.netlify.app/",
+          linkSite: "https://evaluationday-htmlcss.netlify.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/12-EvaluationDay",
+        },
+        {
+          id: 4,
+          img: '',
+          link: "https://8-jquery-actors-project.netlify.app/",
+          linkSite: "https://8-jquery-actors-project.netlify.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/8-Jquery-Actors-Project",
+        },
+        {
+          id: 5,
+          img: '',
+          link: "https://cook-myportfolio.netlify.app/",
+          linkSite: "https://cook-myportfolio.netlify.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/Cook",
+        },
+      
+        {
+          id: 6,
+          img: '',
+          link: "https://project-days-jquery.netlify.app/",
+          linkSite: "https://project-days-jquery.netlify.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/Project-days-jQuery",
+        },
+        {
+          id: 7,
+          img: '',
+          link: "https://api-ajax-exercise.netlify.app/",
+          linkSite: "https://api-ajax-exercise.netlify.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/API-AJAX-exercise",
+        },
+        {
+          id: 8,
+          img: '',
+          link: "https://catering-turelyk.netlify.app/",
+          linkSite: "https://catering-turelyk.netlify.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/catering",
+        },
+        {
+          id: 9,
+          img: '',
+          link: "https://gamer-heart-free-standard-turelyk.netlify.app/",
+          linkSite: "https://gamer-heart-free-standard-turelyk.netlify.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/gamer-heart-free-standard",
+        },
+        {
+          id: 10,
+          img: '',
+          link: "https://turelyk-arsen-portfolio.netlify.app/",
+          linkSite: "https://turelyk-arsen-portfolio.netlify.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/Portfolio_first_project",
+        }
+    ],
   },
   {
     id: 6,
