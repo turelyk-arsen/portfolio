@@ -94,8 +94,8 @@ const projects = [
   },
   {
     id: 5,
-    title: "Html and Css Project",
-    skills: "Html, Css",
+    title: "Html, Css, JS Projects",
+    skills: "Html, Css, JavaScript, JQuery, AJAX",
     img: project_5,
     subProjects: [
       {
