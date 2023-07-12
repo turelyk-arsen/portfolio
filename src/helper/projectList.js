@@ -59,7 +59,7 @@ const projects = [
   {
     id: 4,
     title: "JavaScript - React Projects",
-    skills: "React, Next.js",
+    skills: "React",
     img: project_3,
     subProjects: [
         {
