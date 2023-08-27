@@ -54,6 +54,12 @@ const projects = [
           link: "https://www.youtube.com/embed/Yq_oDfpdquo",
           gitHubLink: "https://github.com/turelyk-arsen/angular-spring",
         },
+        {
+          id: 2,
+          link: "https://crash-course-xi.vercel.app/",
+          linkSite: "https://crash-course-xi.vercel.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/crash-course",
+        }
       ],
   },
   {
