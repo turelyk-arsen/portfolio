@@ -45,7 +45,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "TypeScript - Angular Projects",
+    title: "TypeScript - Angular Project",
     skills: "TypeScript, Angular",
     img: project_4,
     subProjects: [
