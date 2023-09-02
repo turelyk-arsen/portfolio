@@ -51,11 +51,17 @@ const projects = [
     subProjects: [
         {
           id: 1,
+          link: "https://first-app-lesson-00.vercel.app/",
+          linkSite: "https://first-app-lesson-00.vercel.app/",
+          gitHubLink: "https://github.com/turelyk-arsen/first-app-lesson-00",
+        },
+        {
+          id: 2,
           link: "https://www.youtube.com/embed/Yq_oDfpdquo",
           gitHubLink: "https://github.com/turelyk-arsen/angular-spring",
         },
         {
-          id: 2,
+          id: 3,
           link: "https://crash-course-xi.vercel.app/",
           linkSite: "https://crash-course-xi.vercel.app/",
           gitHubLink: "https://github.com/turelyk-arsen/crash-course",
