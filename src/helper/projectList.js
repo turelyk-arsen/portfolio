@@ -87,6 +87,7 @@ const projects = [
             linkSite: "https://kaleidoscopic-jalebi-9ebc66.netlify.app/",
             link: "https://kaleidoscopic-jalebi-9ebc66.netlify.app/",
             gitHubLink: "https://github.com/turelyk-arsen/react-course",
+            linkHub: "https://hub.docker.com/repository/docker/arsenturelyk/react-course-api/general",
           },
           {
             id: 3,
