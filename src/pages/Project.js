@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import BtnGitHub from "../components/button/btnGitHub/BtnGitHub";
 import { projects } from "./../helper/projectList";
 import Btn from "../components/button/btn/Btn";
+import BtnDocker from "../components/button/btnDocker/BtnDocker"
 
 export default function Project() {
   const { id } = useParams();
@@ -37,6 +38,7 @@ export default function Project() {
                       ></iframe>
                       <BtnGitHub link={project.gitHubLink} />
                       {project.linkSite && <Btn link={project.linkSite} />}
+                      {project.linkHub && <BtnDocker link={project.linkHub} />}
                     </div>
                   </ul>
                 </div>
