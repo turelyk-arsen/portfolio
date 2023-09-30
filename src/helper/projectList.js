@@ -21,7 +21,7 @@ const projects = [
       },
       {
         id: 2,
-        link: "https://youtu.be/58tWjS7uj1A?si=J6_d4E51wKfs8Jlo",
+        link: "https://www.youtube.com/embed/58tWjS7uj1A?si=Ym-m4dd_tA3c0B1O",
         gitHubLink: "https://github.com/turelyk-arsen/symfony-first",
         linkHub: "https://hub.docker.com/repository/docker/arsenturelyk/new/general",
       },
