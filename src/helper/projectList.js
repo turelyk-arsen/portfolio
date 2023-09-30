@@ -1,4 +1,5 @@
-import project_1 from "./../img/projects/download.png";
+// import project_1 from "./../img/projects/download.png";
+import project_1 from "./../img/projects/25158.png";
 import project_2 from "./../img/projects/spring-boot-logo_01.png";
 import project_3 from "./../img/projects/react_01.png";
 import project_4 from "./../img/projects/angular_01.png";
@@ -9,8 +10,8 @@ import project_6_1 from "./../img/projects/lux.jpg";
 const projects = [
   {
     id: 1,
-    title: "Php - Laravel Projects",
-    skills: "Php, OOP, Laravel, MySQL",
+    title: "Php Projects",
+    skills: "Php, OOP, Laravel, Symfony, MySQL",
     img: project_1,
     subProjects: [
       {
@@ -20,9 +21,15 @@ const projects = [
       },
       {
         id: 2,
+        link: "https://youtu.be/58tWjS7uj1A?si=J6_d4E51wKfs8Jlo",
+        gitHubLink: "https://github.com/turelyk-arsen/symfony-first",
+        linkHub: "https://hub.docker.com/repository/docker/arsenturelyk/new/general",
+      },
+      {
+        id: 3,
         link: "https://www.youtube.com/embed/Dtms0CKJX0o",
         gitHubLink: "https://github.com/turelyk-arsen/backend/tree/main/Laravel",
-      },
+      }
     ],
   },
   {
