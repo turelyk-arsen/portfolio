@@ -48,6 +48,14 @@ const projects = [
           link: "https://www.youtube.com/embed/Yq_oDfpdquo",
           gitHubLink: "https://github.com/turelyk-arsen/springboot-backend-angular",
         },
+        {
+          id: 3,
+          gitHubLink: "https://github.com/turelyk-arsen/cashcard",
+        },
+        {
+          id: 4,
+          gitHubLink: "https://github.com/turelyk-arsen/BillingJob",
+        }
       ],
   },
   {

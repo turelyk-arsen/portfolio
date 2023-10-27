@@ -30,12 +30,12 @@ export default function Project() {
                 <div className="container">
                   <ul className="projects" >
                     <div className="project-details" key={project.id}>
-                      <iframe width="860" height="615"
+                      {project.link&&<iframe width="860" height="615"
                         src={project.link}
                         title="YouTube video player"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowFullScreen
-                      ></iframe>
+                      ></iframe>}
                       <BtnGitHub link={project.gitHubLink} />
                       {project.linkSite && <Btn link={project.linkSite} />}
                       {project.linkHub && <BtnDocker link={project.linkHub} />}
