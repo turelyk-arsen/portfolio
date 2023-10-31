@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import cv from "./../../pdf/CV_Turelyk_Arsen_10_2023.pdf"
-{/*import coverLetter from "./../../pdf/Cover Letter_Arsen Turelyk.pdf"*/}
+/*import coverLetter from "./../../pdf/Cover Letter_Arsen Turelyk.pdf"*/
 
 export default function Header() {
   return (
